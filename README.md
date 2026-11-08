@@ -2,6 +2,8 @@
 
 Lyra Tuner is a practice app for guitarists: a tuner, a metronome, chord and scale tools, practice routines and short lessons in one place.
 
+Website: https://lyratuner.pages.dev
+
 This repository is public so you can report bugs and suggest features. The app's source code is private.
 
 ## Feedback
